@@ -1,0 +1,26 @@
+.vagas {
+    font-family: var(--fonte-principal);
+    margin-top: 10em;
+    text-align: center;
+}
+
+.vagas__titulo {
+    margin-bottom: 2em;
+
+}
+
+.vagas__subtitulo {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.vagas__texto {
+    margin: 2em 10em;
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+}
+
+.vagas__pessoas {
+    width: 85%;
+}

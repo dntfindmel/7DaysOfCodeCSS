@@ -1,0 +1,43 @@
+.colaboradores-container {
+    background: var(--background);
+    width: 80%;
+    height: 350px;
+    margin-left: 10em;
+    font-family: var(--fonte-principal);
+}
+
+.colaboradores__titulo {
+    text-align: center;
+    color: var(--vinho);
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 2em;
+    margin-bottom: 1.5em;
+}
+
+
+.colaboradores__subtitulo {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--azul-escuro)
+}
+
+.colaboradores__imagem {
+    margin: 3em 0 1em 35em;
+}
+
+.colaboradores__nome {
+    text-align: center;
+    color: var(--azul-escuro);
+    font-weight: 500;
+    margin-top: 0.5em;
+}
+
+.colaboradores__cargo {
+    text-align: center;
+    color: var(--cinza-claro);
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 1em;
+}

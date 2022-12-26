@@ -1,0 +1,30 @@
+@import url("../styles/header.css");
+@import url("../styles/sobre-nos.css");
+@import url("../styles/projetos.css");
+@import url("../styles/vagas.css");
+@import url("../styles/design.css");
+@import url("../styles/colaboradores.css");
+@import url("../styles/rodape.css");
+
+* {
+    box-sizing: content-box
+}
+
+:root {
+    --fonte-principal: 'Inter';
+    --branco: #FFFFFF;
+    --creme: #F9FAFB;
+    --cinza: #3A404E;
+    --cinza-light: #98A2B3;
+    --cinza-claro: #667085;
+    --vinho: #8E2424;
+    --azul-escuro:  #101828;
+    --bege: #8E2424 5%;
+    --background: rgba(195, 25, 25, 0.03);
+}
+
+body {
+    background: var(--branco);
+    font-size: 16px;
+    width: 100%;
+}

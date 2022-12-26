@@ -1,0 +1,26 @@
+.projetos {
+    display: flex;
+    font-family: var(--fonte-principal);
+}
+
+.descricao__titulo {
+    margin: 2em 2em 0.5em 1.4em;
+    font-size: 60px;
+    color: var(--vinho);
+    font-weight: 600;
+}
+
+.descricao__texto {
+    color: var(--azul-escuro);
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0 2em 0.5em 4.9em;
+}
+
+.descricao__texto--dois {
+    color: #667085;
+    font-weight: 400;
+    margin: 0 2em 0.5em 5.4em;
+}
+
+
